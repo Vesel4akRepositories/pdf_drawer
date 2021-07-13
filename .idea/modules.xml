@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf_drawer.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf_drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cardview/pdf_drawer.cardview.iml" filepath="$PROJECT_DIR$/.idea/modules/cardview/pdf_drawer.cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design/pdf_drawer.design.iml" filepath="$PROJECT_DIR$/.idea/modules/design/pdf_drawer.design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdf_drawer/pdf_drawer.pdf_drawer.iml" filepath="$PROJECT_DIR$/.idea/modules/pdf_drawer/pdf_drawer.pdf_drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recyclerview/pdf_drawer.recyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/recyclerview/pdf_drawer.recyclerview.iml" />
+    </modules>
+  </component>
+</project>

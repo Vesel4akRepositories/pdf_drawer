@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	     xmlns:app="http://schemas.android.com/apk/res-auto"
+	     xmlns:card_view="http://schemas.android.com/apk/res-auto"
+	     android:id="@+id/main_layout"
+	     android:orientation="vertical"
+	     android:layout_width="match_parent"
+	     android:layout_height="match_parent"
+	     android:animateLayoutChanges="false">
+
+  <!-- mDocView is added here -->
+  
+  <ScrollView
+     android:id="@+id/entry_screen_scroll_view"
+     android:visibility="invisible"
+     android:layout_width="fill_parent"	
+     android:layout_height="fill_parent"
+     android:scrollbars="none"
+     android:background="@drawable/fading_shadow"
+     android:fillViewport="true"
+     android:animateLayoutChanges="false">
+  <LinearLayout
+     android:id="@+id/entry_screen_layout"
+     android:orientation="vertical"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:paddingTop="?attr/actionBarSize"
+     android:animateLayoutChanges="true">
+  </LinearLayout>
+  </ScrollView>
+  
+  <androidx.appcompat.widget.Toolbar
+     android:id="@+id/toolbar"
+     android:layout_width="match_parent"
+     android:layout_height="?attr/actionBarSize"
+     android:background="@color/toolbar"
+     android:elevation="4dp"
+     android:theme="@style/PenAndPDFToolbarTheme"
+     android:animateLayoutChanges="true"
+     android:layout_gravity="center_horizontal|top"/>
+</RelativeLayout>

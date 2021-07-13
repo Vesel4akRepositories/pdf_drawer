@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/menu_undo"
+	android:icon="@drawable/ic_undo_white_24dp"
+	android:title="@string/menu_undo" 
+	app:showAsAction="always"/>
+  <item android:id="@+id/menu_cancel"
+	app:actionLayout="@layout/cancel_button"
+	android:title="@string/menu_cancel" 
+	app:showAsAction="always"/>
+  <item android:id="@+id/menu_erase"
+	android:icon="@drawable/ic_action_erase_white_24dp"
+	android:title="@string/menu_erase" 
+	app:showAsAction="always"/>
+  <item android:id="@+id/menu_draw"
+	app:actionLayout="@layout/drawing_button"
+	android:title="@string/menu_draw" 
+	app:showAsAction="always"/>
+  <item android:id="@+id/menu_accept"
+	android:icon="@drawable/ic_done_white_24dp"
+	android:title="@string/menu_accept" 
+	app:showAsAction="always"/>
+</menu>

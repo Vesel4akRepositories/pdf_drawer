@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+attr? layoutManager
+attr? reverseLayout
+attr? spanCount
+attr? stackFromEnd
+dimen item_touch_helper_max_drag_scroll_per_frame
+id item_touch_helper_previous_elevation
+styleable RecyclerView layoutManager android:orientation spanCount reverseLayout stackFromEnd

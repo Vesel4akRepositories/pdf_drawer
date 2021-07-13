@@ -1,0 +1,267 @@
+com/cgogolin/penandpdf/NoteBrowserFragment.java
+ com.cgogolin.penandpdf.NoteBrowserFragment
+ com.cgogolin.penandpdf.NoteBrowserFragment$1
+ com.cgogolin.penandpdf.NoteBrowserFragment$1$1
+ com.cgogolin.penandpdf.NoteBrowserFragment$1$2
+ com.cgogolin.penandpdf.NoteBrowserFragment$1$3
+ com.cgogolin.penandpdf.NoteBrowserFragment$2
+ com.cgogolin.penandpdf.NoteBrowserFragment$3
+ com.cgogolin.penandpdf.NoteBrowserFragment$4
+ com.cgogolin.penandpdf.NoteBrowserFragment$5
+ com.cgogolin.penandpdf.NoteBrowserFragment$Purpose
+com/cgogolin/penandpdf/LinkInfo.java
+ com.cgogolin.penandpdf.LinkInfo
+ com.cgogolin.penandpdf.LinkInfo$LinkType
+com/cgogolin/penandpdf/ChoosePDFAdapter.java
+ com.cgogolin.penandpdf.ChoosePDFAdapter
+ com.cgogolin.penandpdf.ChoosePDFAdapter$1
+com/cgogolin/penandpdf/SettingsFragment.java
+ com.cgogolin.penandpdf.SettingsFragment
+com/cgogolin/penandpdf/OutlineItem.java
+ com.cgogolin.penandpdf.OutlineItem
+com/cgogolin/penandpdf/LinkInfoInternal.java
+ com.cgogolin.penandpdf.LinkInfoInternal
+com/cgogolin/penandpdf/BuildConfig.java
+ com.cgogolin.penandpdf.BuildConfig
+com/cgogolin/penandpdf/RecentFilesFragment.java
+ com.cgogolin.penandpdf.RecentFilesFragment
+ com.cgogolin.penandpdf.RecentFilesFragment$1
+ com.cgogolin.penandpdf.RecentFilesFragment$2
+ com.cgogolin.penandpdf.RecentFilesFragment$Purpose
+ com.cgogolin.penandpdf.RecentFilesFragment$goToDirInterface
+com/cgogolin/penandpdf/LinkInfoRemote.java
+ com.cgogolin.penandpdf.LinkInfoRemote
+com/cgogolin/penandpdf/TextChar.java
+ com.cgogolin.penandpdf.TextChar
+com/cgogolin/penandpdf/WidgetType.java
+ com.cgogolin.penandpdf.WidgetType
+com/cgogolin/penandpdf/TemporaryUriPermission.java
+ com.cgogolin.penandpdf.TemporaryUriPermission
+ com.cgogolin.penandpdf.TemporaryUriPermission$TemporaryUriPermissionProvider
+com/cgogolin/penandpdf/MuPDFAlertInternal.java
+ com.cgogolin.penandpdf.MuPDFAlertInternal
+com/cgogolin/penandpdf/OpaqueImageView.java
+ com.cgogolin.penandpdf.OpaqueImageView
+com/cgogolin/penandpdf/PageView.java
+ com.cgogolin.penandpdf.PageView
+ com.cgogolin.penandpdf.PageView$1
+ com.cgogolin.penandpdf.PageView$1Boolean
+ com.cgogolin.penandpdf.PageView$2
+ com.cgogolin.penandpdf.PageView$3
+ com.cgogolin.penandpdf.PageView$4
+ com.cgogolin.penandpdf.PageView$5
+ com.cgogolin.penandpdf.PageView$OverlayView
+ com.cgogolin.penandpdf.PageView$OverlayView$TextSelectionDrawer
+ com.cgogolin.penandpdf.PageView$PatchInfo
+ com.cgogolin.penandpdf.PageView$PatchView
+ com.cgogolin.penandpdf.PageView$PatchView$1
+ com.cgogolin.penandpdf.TextProcessor
+ com.cgogolin.penandpdf.TextSelector
+com/cgogolin/penandpdf/PenAndPDFContentProvider.java
+ com.cgogolin.penandpdf.PenAndPDFContentProvider
+ com.cgogolin.penandpdf.PenAndPDFContentProvider$RootInfo
+com/cgogolin/penandpdf/FilePicker.java
+ com.cgogolin.penandpdf.FilePicker
+ com.cgogolin.penandpdf.FilePicker$FilePickerSupport
+com/cgogolin/penandpdf/ReaderView.java
+ com.cgogolin.penandpdf.ReaderView
+ com.cgogolin.penandpdf.ReaderView$1
+ com.cgogolin.penandpdf.ReaderView$2
+ com.cgogolin.penandpdf.ReaderView$3
+ com.cgogolin.penandpdf.ReaderView$ViewMapper
+com/cgogolin/penandpdf/PointFMath.java
+ com.cgogolin.penandpdf.LineSegmentCircleIntersectionResult
+ com.cgogolin.penandpdf.PointFMath
+com/cgogolin/penandpdf/MuPDFAlert.java
+ com.cgogolin.penandpdf.MuPDFAlert
+ com.cgogolin.penandpdf.MuPDFAlert$ButtonGroupType
+ com.cgogolin.penandpdf.MuPDFAlert$ButtonPressed
+ com.cgogolin.penandpdf.MuPDFAlert$IconType
+com/cgogolin/penandpdf/SwipeFragmentPagerAdapter.java
+ com.cgogolin.penandpdf.SwipeFragmentPagerAdapter
+com/cgogolin/penandpdf/CancellableAsyncTask.java
+ com.cgogolin.penandpdf.CancellableAsyncTask
+ com.cgogolin.penandpdf.CancellableAsyncTask$1
+com/cgogolin/penandpdf/MuPDFReaderView.java
+ com.cgogolin.penandpdf.MuPDFReaderView
+ com.cgogolin.penandpdf.MuPDFReaderView$1
+ com.cgogolin.penandpdf.MuPDFReaderView$2
+ com.cgogolin.penandpdf.MuPDFReaderView$3
+ com.cgogolin.penandpdf.MuPDFReaderView$4
+ com.cgogolin.penandpdf.MuPDFReaderView$4$1
+ com.cgogolin.penandpdf.MuPDFReaderView$5
+ com.cgogolin.penandpdf.MuPDFReaderView$Mode
+com/cgogolin/penandpdf/RecentFile.java
+ com.cgogolin.penandpdf.RecentFile
+com/cgogolin/penandpdf/ChoosePDFItem.java
+ com.cgogolin.penandpdf.ChoosePDFItem
+ com.cgogolin.penandpdf.ChoosePDFItem$Type
+com/cgogolin/penandpdf/ColorPalette.java
+ com.cgogolin.penandpdf.ColorPalette
+com/cgogolin/penandpdf/FragmentPagerAdapter.java
+ com.cgogolin.penandpdf.FragmentPagerAdapter
+com/cgogolin/penandpdf/SearchResult.java
+ com.cgogolin.penandpdf.SearchResult
+com/cgogolin/penandpdf/PenAndPDFFileChooser.java
+ com.cgogolin.penandpdf.PenAndPDFFileChooser
+ com.cgogolin.penandpdf.PenAndPDFFileChooser$1
+ com.cgogolin.penandpdf.PenAndPDFFileChooser$2
+ com.cgogolin.penandpdf.PenAndPDFFileChooser$3
+com/cgogolin/penandpdf/FileBrowserFragment.java
+ com.cgogolin.penandpdf.FileBrowserFragment
+ com.cgogolin.penandpdf.FileBrowserFragment$1
+ com.cgogolin.penandpdf.FileBrowserFragment$1$1
+ com.cgogolin.penandpdf.FileBrowserFragment$1$2
+ com.cgogolin.penandpdf.FileBrowserFragment$1$3
+ com.cgogolin.penandpdf.FileBrowserFragment$1$4
+ com.cgogolin.penandpdf.FileBrowserFragment$2
+ com.cgogolin.penandpdf.FileBrowserFragment$3
+ com.cgogolin.penandpdf.FileBrowserFragment$4
+ com.cgogolin.penandpdf.FileBrowserFragment$5
+ com.cgogolin.penandpdf.FileBrowserFragment$Purpose
+com/cgogolin/penandpdf/PrintDialogActivity.java
+ com.cgogolin.penandpdf.PrintDialogActivity
+ com.cgogolin.penandpdf.PrintDialogActivity$1
+ com.cgogolin.penandpdf.PrintDialogActivity$PrintDialogJavaScriptInterface
+ com.cgogolin.penandpdf.PrintDialogActivity$PrintDialogWebClient
+com/cgogolin/penandpdf/LinkInfoVisitor.java
+ com.cgogolin.penandpdf.LinkInfoVisitor
+com/cgogolin/penandpdf/PointFSerializable.java
+ com.cgogolin.penandpdf.PointFSerializable
+com/cgogolin/penandpdf/CancellableTaskDefinition.java
+ com.cgogolin.penandpdf.CancellableTaskDefinition
+com/cgogolin/penandpdf/SaveInstanceStateManager.java
+ com.cgogolin.penandpdf.SaveInstanceStateManager
+com/cgogolin/penandpdf/TextDrawable.java
+ com.cgogolin.penandpdf.TextDrawable
+com/cgogolin/penandpdf/Annotation.java
+ com.cgogolin.penandpdf.Annotation
+ com.cgogolin.penandpdf.Annotation$Type
+com/cgogolin/penandpdf/TextWord.java
+ com.cgogolin.penandpdf.TextWord
+com/cgogolin/penandpdf/SettingsActivity.java
+ com.cgogolin.penandpdf.SettingsActivity
+com/cgogolin/penandpdf/LinkInfoExternal.java
+ com.cgogolin.penandpdf.LinkInfoExternal
+com/cgogolin/penandpdf/MuPDFView.java
+ com.cgogolin.penandpdf.Hit
+ com.cgogolin.penandpdf.MuPDFView
+com/cgogolin/penandpdf/RecentFilesList.java
+ com.cgogolin.penandpdf.RecentFilesList
+com/cgogolin/penandpdf/MuPDFPageView.java
+ com.cgogolin.penandpdf.MuPDFPageView
+ com.cgogolin.penandpdf.MuPDFPageView$1
+ com.cgogolin.penandpdf.MuPDFPageView$10
+ com.cgogolin.penandpdf.MuPDFPageView$11
+ com.cgogolin.penandpdf.MuPDFPageView$11$1
+ com.cgogolin.penandpdf.MuPDFPageView$12
+ com.cgogolin.penandpdf.MuPDFPageView$13
+ com.cgogolin.penandpdf.MuPDFPageView$14
+ com.cgogolin.penandpdf.MuPDFPageView$15
+ com.cgogolin.penandpdf.MuPDFPageView$16
+ com.cgogolin.penandpdf.MuPDFPageView$17
+ com.cgogolin.penandpdf.MuPDFPageView$18
+ com.cgogolin.penandpdf.MuPDFPageView$19
+ com.cgogolin.penandpdf.MuPDFPageView$2
+ com.cgogolin.penandpdf.MuPDFPageView$2$1
+ com.cgogolin.penandpdf.MuPDFPageView$20
+ com.cgogolin.penandpdf.MuPDFPageView$3
+ com.cgogolin.penandpdf.MuPDFPageView$4
+ com.cgogolin.penandpdf.MuPDFPageView$4$1
+ com.cgogolin.penandpdf.MuPDFPageView$5
+ com.cgogolin.penandpdf.MuPDFPageView$6
+ com.cgogolin.penandpdf.MuPDFPageView$7
+ com.cgogolin.penandpdf.MuPDFPageView$8
+ com.cgogolin.penandpdf.MuPDFPageView$9
+ com.cgogolin.penandpdf.MuPDFPageView$9$1
+ com.cgogolin.penandpdf.PassClickResult
+ com.cgogolin.penandpdf.PassClickResultChoice
+ com.cgogolin.penandpdf.PassClickResultSignature
+ com.cgogolin.penandpdf.PassClickResultText
+ com.cgogolin.penandpdf.PassClickResultVisitor
+ com.cgogolin.penandpdf.SignatureState
+com/cgogolin/penandpdf/PenAndPDFCore.java
+ com.cgogolin.penandpdf.PenAndPDFCore
+com/cgogolin/penandpdf/MuPDFCancellableTaskDefinition.java
+ com.cgogolin.penandpdf.MuPDFCancellableTaskDefinition
+com/cgogolin/penandpdf/PdfThumbnailManager.java
+ com.cgogolin.penandpdf.PdfThumbnailManager
+com/cgogolin/penandpdf/SearchTaskManager.java
+ com.cgogolin.penandpdf.SearchProgressDialog
+ com.cgogolin.penandpdf.SearchTaskManager
+ com.cgogolin.penandpdf.SearchTaskManager$1
+ com.cgogolin.penandpdf.SearchTaskManager$2
+ com.cgogolin.penandpdf.SearchTaskManager$2$1
+ com.cgogolin.penandpdf.SearchTaskManager$2$2
+com/cgogolin/penandpdf/MuPDFCore.java
+ com.cgogolin.penandpdf.MuPDFCore
+ com.cgogolin.penandpdf.MuPDFCore$1
+ com.cgogolin.penandpdf.MuPDFCore$Cookie
+com/cgogolin/penandpdf/MuPDFPageAdapter.java
+ com.cgogolin.penandpdf.MuPDFPageAdapter
+ com.cgogolin.penandpdf.MuPDFPageAdapter$1
+com/cgogolin/penandpdf/PenAndPDFActivity.java
+ com.cgogolin.penandpdf.PenAndPDFActivity
+ com.cgogolin.penandpdf.PenAndPDFActivity$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$1$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$1$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$10
+ com.cgogolin.penandpdf.PenAndPDFActivity$11
+ com.cgogolin.penandpdf.PenAndPDFActivity$12
+ com.cgogolin.penandpdf.PenAndPDFActivity$12$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$12$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$13
+ com.cgogolin.penandpdf.PenAndPDFActivity$14
+ com.cgogolin.penandpdf.PenAndPDFActivity$15
+ com.cgogolin.penandpdf.PenAndPDFActivity$16
+ com.cgogolin.penandpdf.PenAndPDFActivity$16$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$16$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$16$3
+ com.cgogolin.penandpdf.PenAndPDFActivity$16$4
+ com.cgogolin.penandpdf.PenAndPDFActivity$17
+ com.cgogolin.penandpdf.PenAndPDFActivity$18
+ com.cgogolin.penandpdf.PenAndPDFActivity$19
+ com.cgogolin.penandpdf.PenAndPDFActivity$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$20
+ com.cgogolin.penandpdf.PenAndPDFActivity$21
+ com.cgogolin.penandpdf.PenAndPDFActivity$22
+ com.cgogolin.penandpdf.PenAndPDFActivity$23
+ com.cgogolin.penandpdf.PenAndPDFActivity$24
+ com.cgogolin.penandpdf.PenAndPDFActivity$25
+ com.cgogolin.penandpdf.PenAndPDFActivity$25$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$26
+ com.cgogolin.penandpdf.PenAndPDFActivity$26$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$26$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$27
+ com.cgogolin.penandpdf.PenAndPDFActivity$28
+ com.cgogolin.penandpdf.PenAndPDFActivity$29
+ com.cgogolin.penandpdf.PenAndPDFActivity$3
+ com.cgogolin.penandpdf.PenAndPDFActivity$30
+ com.cgogolin.penandpdf.PenAndPDFActivity$31
+ com.cgogolin.penandpdf.PenAndPDFActivity$32
+ com.cgogolin.penandpdf.PenAndPDFActivity$33
+ com.cgogolin.penandpdf.PenAndPDFActivity$34
+ com.cgogolin.penandpdf.PenAndPDFActivity$35
+ com.cgogolin.penandpdf.PenAndPDFActivity$36
+ com.cgogolin.penandpdf.PenAndPDFActivity$37
+ com.cgogolin.penandpdf.PenAndPDFActivity$38
+ com.cgogolin.penandpdf.PenAndPDFActivity$39
+ com.cgogolin.penandpdf.PenAndPDFActivity$4
+ com.cgogolin.penandpdf.PenAndPDFActivity$40
+ com.cgogolin.penandpdf.PenAndPDFActivity$41
+ com.cgogolin.penandpdf.PenAndPDFActivity$41$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$41$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$42
+ com.cgogolin.penandpdf.PenAndPDFActivity$42$1
+ com.cgogolin.penandpdf.PenAndPDFActivity$42$2
+ com.cgogolin.penandpdf.PenAndPDFActivity$43
+ com.cgogolin.penandpdf.PenAndPDFActivity$44
+ com.cgogolin.penandpdf.PenAndPDFActivity$45
+ com.cgogolin.penandpdf.PenAndPDFActivity$46
+ com.cgogolin.penandpdf.PenAndPDFActivity$5
+ com.cgogolin.penandpdf.PenAndPDFActivity$6
+ com.cgogolin.penandpdf.PenAndPDFActivity$7
+ com.cgogolin.penandpdf.PenAndPDFActivity$8
+ com.cgogolin.penandpdf.PenAndPDFActivity$9
+ com.cgogolin.penandpdf.PenAndPDFActivity$ActionBarMode
+ com.cgogolin.penandpdf.ThreadPerTaskExecutor
